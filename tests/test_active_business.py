@@ -8,7 +8,7 @@ __version__ = '1.0'
 """
 
 import unittest
-from ../source/active_business import Event, find_active_businesses
+from active_business.active_business import Event, find_active_businesses
 
 
 class TestMain(unittest.TestCase):
