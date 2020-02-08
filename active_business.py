@@ -4,7 +4,7 @@ Determine if business considered active based on occurrences in the events.
 __author__ = 'Max Luckystar'
 __email__ = 'data.maxluckystar@gmail.com'
 __website__ = ''
-__ copyright__ = 'Copyright 2019, Max Luckystar'
+__ copyright__ = 'Copyright 2020, Max Luckystar'
 __version__ = '1.0'
 
 Problem statement: Given list of user interaction events on "Site", return a
